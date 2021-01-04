@@ -1,6 +1,6 @@
-# flutter_denemesi
+# Schulte Table Game 
 
-A new Flutter project.
+A simple Flutter game project.
 
 ## Getting Started
 
